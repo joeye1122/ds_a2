@@ -1,0 +1,1 @@
+Usage: java GETClient <serveraddress:portnumber> <stationID>
