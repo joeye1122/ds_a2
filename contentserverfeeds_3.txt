@@ -1,0 +1,53 @@
+id:IDS60903
+name:Sydney (Harbour Bridge)
+state: NSW
+time_zone:AEST
+lat:-33.9
+lon:151.2
+local_date_time:15/04:00pm
+local_date_time_full:20230715160000
+air_temp:15.1
+apparent_t:11.5
+cloud:Clear sky
+dewpt:8.5
+press:1022.5
+rel_hum:70
+wind_dir:E
+wind_spd_kmh:12
+wind_spd_kt:6
+
+id:
+name:Sydney (Harbour Bridge)
+state: NSW
+time_zone:AEST
+lat:-33.9
+lon:151.2
+local_date_time:15/04:30pm
+local_date_time_full:20230715163000
+air_temp:20.5
+apparent_t:19.3
+cloud:Clear sky
+dewpt:14.5
+press:1019.2
+rel_hum:65
+wind_dir:NE
+wind_spd_kmh:8
+wind_spd_kt:4
+
+id:IDS60903
+name:Sydney (Harbour Bridge)
+state: NSW
+time_zone:AEST
+lat:-33.9
+lon:151.2
+local_date_time:15/05:00pm
+local_date_time_full:20230715170000
+air_temp:18.4
+apparent_t:17.0
+cloud:Partly cloudy
+dewpt:10.2
+press:1021.3
+rel_hum:58
+wind_dir:W
+wind_spd_kmh:13
+wind_spd_kt:7
