@@ -1,0 +1,9 @@
+[Aggregation Server] now start listening on port 4567
+[Aggregation Server] receive new PUT request
+HTTP/1.1 200 OK
+[Aggregation Server] receive new PUT request
+HTTP/1.1 200 OK
+Removed stationID: IDS60901
+[Aggregation Server] receive new PUT request
+HTTP/1.1 201 Created
+Removed stationID: IDS60901

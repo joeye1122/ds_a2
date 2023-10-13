@@ -93,7 +93,7 @@ public class AggregationServer {
      * @param dataString The received PUT request data.
      * @throws IOException if an I/O error occurs.
      */
-    private void handlePutRequest(Socket socket, String dataString) throws IOException{
+    public void handlePutRequest(Socket socket, String dataString) throws IOException{
         PrintWriter out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()), false);
 
         int emptyLineIndex = dataString.indexOf("\n\n");
@@ -137,7 +137,7 @@ public class AggregationServer {
     * @param dataString  The data string from the GET request.
     * @throws IOException if an I/O error occurs.
     */
-    private void handleGetRequest(Socket socket, String dataString)throws IOException{
+    public void handleGetRequest(Socket socket, String dataString)throws IOException{
         PrintWriter out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()), false);
         WeatherData weatherData = stationIdFilter(dataString);
 
